@@ -1,1 +1,1 @@
-copy/b image.jpg + files.zip = img.jpg
+copy/b image.jpg + file.zip = output.jpg
